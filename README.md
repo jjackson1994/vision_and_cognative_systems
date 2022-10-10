@@ -1,5 +1,16 @@
 # Vision & Cognative Systems
 
+Data Sets:  
+https://lila.science/datasets
+
+Other AI Conservation efforts:  
+  - https://lila.science/datasets
+  - https://github.com/mikeyEcology/MLWIC2
+  - https://www.conservationai.co.uk/
+  - https://www.microsoft.com/en-gb/ai/ai-for-earth
+  - https://www.wildme.org/codex-and-wildbook.html
+
+
 Course Resources: 
 <p float="left">
   <!-- <a href="https://github.com/jpazzini/MAPD-B/tree/2022/mysql" target="_blank">
