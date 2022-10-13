@@ -3,6 +3,9 @@
 Data Sets:  
 https://lila.science/datasets
 
+Relivant Scientific Literature:
+ - https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6147
+
 Other AI Conservation efforts:  
   - https://www.wildlifeinsights.org/
   - https://github.com/mikeyEcology/MLWIC2
