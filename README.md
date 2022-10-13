@@ -4,7 +4,7 @@ Data Sets:
 https://lila.science/datasets
 
 Other AI Conservation efforts:  
-  - https://lila.science/datasets
+  - https://www.wildlifeinsights.org/
   - https://github.com/mikeyEcology/MLWIC2
   - https://www.conservationai.co.uk/
   - https://www.microsoft.com/en-gb/ai/ai-for-earth
