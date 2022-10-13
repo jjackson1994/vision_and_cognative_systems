@@ -5,6 +5,7 @@ https://lila.science/datasets
 
 Relivant Scientific Literature:
  - https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6147
+ - https://www.researchgate.net/publication/349438420_Robust_ecological_analysis_of_camera_trap_data_labelled_by_a_machine_learning_model
 
 Other AI Conservation efforts:  
   - https://www.wildlifeinsights.org/
