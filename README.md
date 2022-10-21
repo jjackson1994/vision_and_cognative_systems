@@ -1,5 +1,9 @@
 # Vision & Cognative Systems
 
+Tutorials:
+how to use pytorch for object detection
+https://learnopencv.com/faster-r-cnn-object-detection-with-pytorch/
+
 Data Sets:  
 https://lila.science/datasets
 
