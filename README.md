@@ -10,6 +10,7 @@ https://lila.science/datasets
 Relivant Scientific Literature:
  - https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6147
  - https://www.researchgate.net/publication/349438420_Robust_ecological_analysis_of_camera_trap_data_labelled_by_a_machine_learning_model
+ - (Under water object detection, overview of modern research) https://link.springer.com/article/10.1007/s11042-022-12502-1
 
 Other AI Conservation efforts:  
   - https://www.wildlifeinsights.org/
