@@ -5,7 +5,8 @@ how to use pytorch for object detection
 https://learnopencv.com/faster-r-cnn-object-detection-with-pytorch/
 
 Data Sets:  
-https://lila.science/datasets
+ - https://lila.science/datasets
+ - (underwater animals) https://lila.science/otherdatasets#images-marine
 
 Relivant Scientific Literature:
  - https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6147
