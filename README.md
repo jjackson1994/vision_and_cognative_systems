@@ -9,6 +9,8 @@ https://learnopencv.com/faster-r-cnn-object-detection-with-pytorch/
 https://www.section.io/engineering-education/object-detection-with-yolov5-and-pytorch/
 
 Data Sets:  
+(make custom datasets from other sets) https://roboflow.com/
+ - https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste
  - https://lila.science/datasets
  - (underwater animals) https://lila.science/otherdatasets#images-marine
  - (all formatts available) https://universe.roboflow.com/yoonchang-lee/marine_data/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
