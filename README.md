@@ -1,8 +1,12 @@
 # Vision & Cognative Systems
 
 Tutorials:
-how to use pytorch for object detection  
+how to use pytorch for object detection 
+(RCNN)
 https://learnopencv.com/faster-r-cnn-object-detection-with-pytorch/
+
+(YOLO)
+https://www.section.io/engineering-education/object-detection-with-yolov5-and-pytorch/
 
 Data Sets:  
  - https://lila.science/datasets
