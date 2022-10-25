@@ -17,7 +17,8 @@ Data Sets:
  - https://lila.science/datasets
  - (underwater animals) https://lila.science/otherdatasets#images-marine
  - (all formatts available) https://universe.roboflow.com/yoonchang-lee/marine_data/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
- - (official marine life benchmark dataset) https://www.kaggle.com/datasets/landrykezebou/uot32-underwater-object-tracking-dataset
+ - (benchmark dataset, brackish) https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset
+ - (benchmark dataset, UOT32) https://www.kaggle.com/datasets/landrykezebou/uot32-underwater-object-tracking-dataset
 
 Relivant Scientific Literature:
  - https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6147
