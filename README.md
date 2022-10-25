@@ -17,9 +17,10 @@ Data Sets:
  - https://lila.science/datasets
  - (underwater animals) https://lila.science/otherdatasets#images-marine
  - (all formatts available) https://universe.roboflow.com/yoonchang-lee/marine_data/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
- - (benchmark dataset, brackish) https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset
+ - ***(benchmark dataset, brackish) https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset
  - (benchmark dataset, UOT32) https://www.kaggle.com/datasets/landrykezebou/uot32-underwater-object-tracking-dataset
  - (benchmark, looks amazing, can't find the data though) https://www.sciencedirect.com/science/article/pii/S1568494619302169
+ - (non marine banchmark) https://paperswithcode.com/dataset/pascal-voc
 
 Relivant Scientific Literature:
  - https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6147
@@ -29,7 +30,9 @@ Relivant Scientific Literature:
  - (marine litter on uninhabited island) https://www.sciencedirect.com/science/article/pii/S0048969722031618
  - (review of DL marine object detection. includes list of good datasets)https://www.researchgate.net/publication/363684765_Review_on_Deep_Learning_Techniques_for_Underwater_Object_Detection
  - (YOLO reference paper, i can't find data)https://link.springer.com/content/pdf/10.1007/s11036-018-1117-9.pdf
- 
+ - ***(YOLO reference paper, brackish dataset)https://www.mdpi.com/2072-4292/13/22/4706
+ - ***(YOLO reference paper, brackish dataset)https://www.sciencedirect.com/science/article/pii/S014193312200165X
+
 Other AI Conservation efforts:  
   - https://www.wildlifeinsights.org/
   - https://github.com/mikeyEcology/MLWIC2
