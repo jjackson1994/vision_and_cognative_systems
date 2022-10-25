@@ -8,6 +8,9 @@ https://learnopencv.com/faster-r-cnn-object-detection-with-pytorch/
 (YOLO)
 https://www.section.io/engineering-education/object-detection-with-yolov5-and-pytorch/
 
+what is yolo and all versions explained
+https://www.datacamp.com/blog/yolo-object-detection-explained
+
 Data Sets:  
 (make custom datasets from other sets) https://roboflow.com/
  - https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste
