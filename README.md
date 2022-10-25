@@ -24,6 +24,7 @@ Relivant Scientific Literature:
  - (Under water object detection, overview of modern research) https://link.springer.com/article/10.1007/s11042-022-12502-1
  - (Marine Segmentation) https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9471801&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL3NlYXJjaC9zZWFyY2hyZXN1bHQuanNwP3NlYXJjaFdpdGhpbj0lMjJQdWJsaWNhdGlvbiUyME51bWJlciUyMjo3NiZzZWFyY2hXaXRoaW49JTIyVm9sdW1lJTIyOjMyJnNlYXJjaFdpdGhpbj0lMjJJc3N1ZSUyMjo0JnNlYXJjaFdpdGhpbj0lMjJTdGFydCUyMFBhZ2UlMjI6MjMwMw==
  - (marine litter on uninhabited island) https://www.sciencedirect.com/science/article/pii/S0048969722031618
+ - (review of DL marine object detection. includes list of good datasets)https://www.researchgate.net/publication/363684765_Review_on_Deep_Learning_Techniques_for_Underwater_Object_Detection
  
 Other AI Conservation efforts:  
   - https://www.wildlifeinsights.org/
