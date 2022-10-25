@@ -19,7 +19,8 @@ Relivant Scientific Literature:
  - https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6147
  - https://www.researchgate.net/publication/349438420_Robust_ecological_analysis_of_camera_trap_data_labelled_by_a_machine_learning_model
  - (Under water object detection, overview of modern research) https://link.springer.com/article/10.1007/s11042-022-12502-1
-
+ - (very promising) https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9471801&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL3NlYXJjaC9zZWFyY2hyZXN1bHQuanNwP3NlYXJjaFdpdGhpbj0lMjJQdWJsaWNhdGlvbiUyME51bWJlciUyMjo3NiZzZWFyY2hXaXRoaW49JTIyVm9sdW1lJTIyOjMyJnNlYXJjaFdpdGhpbj0lMjJJc3N1ZSUyMjo0JnNlYXJjaFdpdGhpbj0lMjJTdGFydCUyMFBhZ2UlMjI6MjMwMw==
+ 
 Other AI Conservation efforts:  
   - https://www.wildlifeinsights.org/
   - https://github.com/mikeyEcology/MLWIC2
