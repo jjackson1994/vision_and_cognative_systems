@@ -3,7 +3,8 @@
 ## Daniels Proposed Game Plan:
 I have found two benchmark datasets for underwater object detection.
  - ***(benchmark dataset, brackish) https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset
- - (benchmark dataset, UOT32) https://www.kaggle.com/datasets/landrykezebou/uot32-underwater-object-tracking-dataset
+ - (benchmark dataset, UOT32) https://www.kaggle.com/datasets/landrykezebou/uot32-underwater-object-tracking-dataset  
+
 I have found 2 papers that use a YOLO model on these datasets
  - ***(YOLO reference paper, brackish dataset, PASCAL VOC)https://www.mdpi.com/2072-4292/13/22/4706
  - ***(YOLO reference paper, brackish dataset, UOT32)https://www.sciencedirect.com/science/article/pii/S014193312200165X
