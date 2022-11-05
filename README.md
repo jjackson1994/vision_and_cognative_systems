@@ -1,9 +1,18 @@
 # Vision & Cognative Systems
 
-Daniels Proposed Game Plan:
+## Daniels Proposed Game Plan:
+I have found two benchmark datasets for underwater object detection.
+ - ***(benchmark dataset, brackish) https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset
+ - (benchmark dataset, UOT32) https://www.kaggle.com/datasets/landrykezebou/uot32-underwater-object-tracking-dataset
+I have found 2 papers that use a YOLO model on these datasets
+ - ***(YOLO reference paper, brackish dataset, PASCAL VOC)https://www.mdpi.com/2072-4292/13/22/4706
+ - ***(YOLO reference paper, brackish dataset, UOT32)https://www.sciencedirect.com/science/article/pii/S014193312200165X
 
+My suggestion is that we train a Py-torch faster R-CNN version 5 on the same data sets and measure the perfomance in the same way as the papers for direct comparison of the two algorythims.
 
-Tutorials:
+Since this has never been done before it is likely we can publish a paper on it.
+
+## Tutorials:
 how to use pytorch for object detection   
 (RCNN)
 https://learnopencv.com/faster-r-cnn-object-detection-with-pytorch/
@@ -14,7 +23,7 @@ https://www.section.io/engineering-education/object-detection-with-yolov5-and-py
 what is yolo and all versions explained
 https://www.datacamp.com/blog/yolo-object-detection-explained
 
-Data Sets:  
+## Data Sets:  
 (make custom datasets from other sets) https://roboflow.com/
  - https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste
  - https://lila.science/datasets
@@ -25,7 +34,7 @@ Data Sets:
  - (benchmark, looks amazing, can't find the data though) https://www.sciencedirect.com/science/article/pii/S1568494619302169
  - (non marine banchmark) https://paperswithcode.com/dataset/pascal-voc
 
-Relivant Scientific Literature:
+## Relivant Scientific Literature:
  - https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6147
  - https://www.researchgate.net/publication/349438420_Robust_ecological_analysis_of_camera_trap_data_labelled_by_a_machine_learning_model
  - (Under water object detection, overview of modern research) https://link.springer.com/article/10.1007/s11042-022-12502-1
@@ -33,10 +42,10 @@ Relivant Scientific Literature:
  - (marine litter on uninhabited island) https://www.sciencedirect.com/science/article/pii/S0048969722031618
  - (review of DL marine object detection. includes list of good datasets)https://www.researchgate.net/publication/363684765_Review_on_Deep_Learning_Techniques_for_Underwater_Object_Detection
  - (YOLO reference paper, i can't find data)https://link.springer.com/content/pdf/10.1007/s11036-018-1117-9.pdf
- - ***(YOLO reference paper, brackish dataset)https://www.mdpi.com/2072-4292/13/22/4706
- - ***(YOLO reference paper, brackish dataset)https://www.sciencedirect.com/science/article/pii/S014193312200165X
+ - ***(YOLO reference paper, brackish dataset, PASCAL VOC)https://www.mdpi.com/2072-4292/13/22/4706
+ - ***(YOLO reference paper, brackish dataset, UOT32)https://www.sciencedirect.com/science/article/pii/S014193312200165X
 
-Other AI Conservation efforts:  
+## Other AI Conservation efforts:  
   - https://www.wildlifeinsights.org/
   - https://github.com/mikeyEcology/MLWIC2
   - https://www.conservationai.co.uk/
