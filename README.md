@@ -9,7 +9,7 @@ I have found 2 papers that use a YOLO model on these datasets
  - ***(YOLO reference paper, brackish dataset, PASCAL VOC)https://www.mdpi.com/2072-4292/13/22/4706
  - ***(YOLO reference paper, brackish dataset, UOT32)https://www.sciencedirect.com/science/article/pii/S014193312200165X
 
-My suggestion is that we train a Py-torch faster R-CNN version 5 on the same data sets and measure the perfomance in the same way as the papers for direct comparison of the two algorythims.
+My suggestion is that we train a Py-torch faster R-CNN on the same data sets and measure the perfomance in the same way as the papers for direct comparison of the two algorythims.
 
 Performance Monitoring  
  - mAP, mean average percision
