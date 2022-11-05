@@ -11,6 +11,12 @@ I have found 2 papers that use a YOLO model on these datasets
 
 My suggestion is that we train a Py-torch faster R-CNN version 5 on the same data sets and measure the perfomance in the same way as the papers for direct comparison of the two algorythims.
 
+Performance Monitoring  
+ - mAP, mean average percision
+ - Intersection over Union
+ https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/
+ - Frames per second. Number of images that can be analysed in a second by the trained model.
+
 Since this has never been done before it is likely we can publish a paper on it.
 
 
