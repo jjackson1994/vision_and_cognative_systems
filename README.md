@@ -13,6 +13,16 @@ My suggestion is that we train a Py-torch faster R-CNN version 5 on the same dat
 
 Since this has never been done before it is likely we can publish a paper on it.
 
+
+## Pre-Processing Ideas  
+Many of the papers I read highlighted that image pre processing is especially important for underwater object detection. Water turbulancy, impurities and light attenuation all affect the quality of the image. Preprocessing can reduce the effect of these issues.
+
+- This is an interesting program we can mention. It is not publically available so we cannot impliment it. It solves the issues of light attenuation. 
+https://pub.towardsai.net/this-ai-removes-the-water-from-underwater-images-d277281bcd0f
+
+- Histogram Attenuation Seems Like A good thing to try
+https://medium.com/spidernitt/image-preprocessing-why-is-it-necessary-8895b8b08c1d
+
 ## Tutorials:
 how to use pytorch for object detection   
 (RCNN)
