@@ -1,5 +1,17 @@
 # Vision & Cognative Systems
 
+## Project Expectations From the Course
+
+Deep Learning and Neural Networks  
+<img width="1017" alt="image" src="https://user-images.githubusercontent.com/61107719/200121783-22d64a64-33d7-49f0-a9c4-3e9a5d763165.png">
+
+Vision and Cognitive Systems
+<img width="964" alt="image" src="https://user-images.githubusercontent.com/61107719/200121927-9309de72-8f39-4349-b445-f3d81aaf6db3.png">
+
+<img width="941" alt="image" src="https://user-images.githubusercontent.com/61107719/200122045-96b5f8a5-500d-4bea-a36a-94c7809bc8ef.png">
+
+
+
 ## Daniels Proposed Game Plan:
 I have found two benchmark datasets for underwater object detection.
  - ***(benchmark dataset, brackish) https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset
