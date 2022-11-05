@@ -1,5 +1,8 @@
 # Vision & Cognative Systems
 
+Daniels Proposed Game Plan:
+
+
 Tutorials:
 how to use pytorch for object detection   
 (RCNN)
