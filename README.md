@@ -15,7 +15,7 @@ Since this has never been done before it is likely we can publish a paper on it.
 
 
 ## Pre-Processing Ideas  
-Many of the papers I read highlighted that image pre processing is especially important for underwater object detection. Water turbulancy, impurities and light attenuation all affect the quality of the image. Preprocessing can reduce the effect of these issues.
+Many of the papers I read highlighted that image pre processing is especially important for underwater object detection. Water turbulancy, impurities and light attenuation all affect the quality of the image. Preprocessing can reduce the effect of these issues. Of the 2 papers reference papers above, one does not use pre-processing and the other is very vauge about it's pre-processing. We can see if we can get a better YOLO performance than them with better pre-processing techniques. We can see what affect each preprocessing technique has on R-CNN. 
 
 - This is an interesting program we can mention. It is not publically available so we cannot impliment it. It solves the issues of light attenuation. 
 https://pub.towardsai.net/this-ai-removes-the-water-from-underwater-images-d277281bcd0f
