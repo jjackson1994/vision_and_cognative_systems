@@ -31,6 +31,12 @@ Performance Monitoring
 
 Since this has never been done before it is likely we can publish a paper on it.
 
+## Report Template
+I outlined a small plan for each section of the report to try and hit every point mentioned in the courses requirements.  
+I took the nature journal latex template. It has lot of good example code for latex.  
+You can edit it with this link too  
+https://www.overleaf.com/8263361544xdcxdtdtshqy
+
 
 ## Pre-Processing Ideas  
 Many of the papers I read highlighted that image pre processing is especially important for underwater object detection. Water turbulancy, impurities and light attenuation all affect the quality of the image. Preprocessing can reduce the effect of these issues. Of the 2 papers reference papers above, one does not use pre-processing and the other is very vauge about it's pre-processing. We can see if we can get a better YOLO performance than them with better pre-processing techniques. We can see what affect each preprocessing technique has on R-CNN. 
