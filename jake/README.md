@@ -134,5 +134,5 @@ Server setup
 ``conda activate pytorch``  
 ``jupyter notebook --no-browser --port=8887&``  
 Local device  
-``ssh -N -L localhost:8887:localhost:8887 mk``
+``ssh -N -L localhost:8887:localhost:8887 mk``  
 Add jupyter connection -> paste url with token attatched  
