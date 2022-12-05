@@ -84,6 +84,9 @@ pytorch.yml is setup up
 They used PyTorch 1.10  
 https://debuggercafe.com/a-simple-pipeline-to-train-pytorch-faster-rcnn-object-detection-model/
 
+I plan on doing this gude and first swapping out the data with the prepaired one on Roboflow  ( and later our preprocessed one )  
+https://public.roboflow.com/object-detection/brackish-underwater/2
+
 Dependencies:
 ``conda install -c conda-forge albumentations``
 Open CV (looks like its bundled with albumentations so need to test)
@@ -112,6 +115,7 @@ caused clash flex solve stops cxx fix again error
   
 Tried forum suggestion  
 ''pip uninstall scikit-build'' 
+
 
 ## Conda Env Managment
 
