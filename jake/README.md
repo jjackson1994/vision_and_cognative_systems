@@ -24,7 +24,6 @@ pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --e
 
 Now no matplotlib  
 
-
 ## Install TensorFlow
 
 ``conda activate tf
@@ -115,6 +114,7 @@ caused clash flex solve stops cxx fix again error
   
 Tried forum suggestion  
 ''pip uninstall scikit-build'' 
+https://stackoverflow.com/questions/48453497/anaconda-libstdc-so-6-version-glibcxx-3-4-20-not-found  
 
 
 ## Conda Env Managment
