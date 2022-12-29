@@ -50,6 +50,7 @@ https://medium.com/spidernitt/image-preprocessing-why-is-it-necessary-8895b8b08c
 ## Tutorials:
 how to use pytorch for object detection   
 (RCNN)
+https://medium.com/towards-data-science/fasterrcnn-explained-part-1-with-code-599c16568cff
 https://learnopencv.com/faster-r-cnn-object-detection-with-pytorch/
 
 (YOLO)
