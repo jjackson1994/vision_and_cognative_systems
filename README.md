@@ -62,6 +62,8 @@ what is yolo and all versions explained
 https://www.datacamp.com/blog/yolo-object-detection-explained
 
 ## Data Sets:  
+how to make a dataset
+https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
 (make custom datasets from other sets) https://roboflow.com/
  - https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste
  - https://lila.science/datasets
